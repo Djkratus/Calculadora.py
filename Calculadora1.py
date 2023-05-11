@@ -5,7 +5,7 @@ import math
 #las casas
 def clase():
     pass
-def class2():
+def clase2():
     pass
 def TemaOscuro(*args): #Creamos el tema oscuro
     
