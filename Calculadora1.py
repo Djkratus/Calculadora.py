@@ -3,6 +3,9 @@ from tkinter import ttk
 import math
 
 #las casas
+def clase():
+    pass
+
 def TemaOscuro(*args): #Creamos el tema oscuro
     
     estilos.configure('mainframe.TFrame', background="#363636")
