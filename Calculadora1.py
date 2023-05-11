@@ -5,7 +5,8 @@ import math
 #las casas
 def clase():
     pass
-
+def class2():
+    pass
 def TemaOscuro(*args): #Creamos el tema oscuro
     
     estilos.configure('mainframe.TFrame', background="#363636")
