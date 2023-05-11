@@ -1,2 +1,2 @@
 # Calculadora.py
-Duvan Camilo
+Duvan Camilo Julio Pineda 
