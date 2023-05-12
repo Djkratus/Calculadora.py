@@ -3,7 +3,7 @@ from tkinter import ttk
 import math
 
 #las casas
-def clase():
+
 def clase():
     pass
 def clase2():
